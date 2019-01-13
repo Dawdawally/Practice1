@@ -13,8 +13,10 @@ var person = {
 
     fullName = function(){
         return this.name + "" + this.surname;
-    }  
-}
+    } 
+};
+
+//semi colon added
 
 var person1 = {
     name: "Dawda",
